@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RaiFViana
+- 👋 Hi, I’m Raí! 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me raifernandosviana@gmail.com
-IG: @reiraiviana
+- 📫 Reach me on [Linkedin](www.linkedin.com/in/raiviana
+or check out my IG: @reiraiviana
 
 <!---
 RaiFViana/RaiFViana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
