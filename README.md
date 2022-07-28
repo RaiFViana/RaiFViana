@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raí! 
 - 🌱 I’m currently learning Java
-- 📫 Reach me on [Linkedin](www.linkedin.com/in/raiviana
+- 📫 Reach me on [Linkedin](www.linkedin.com/in/raiviana)
 or check out my IG: @reiraiviana
 
 <!---
