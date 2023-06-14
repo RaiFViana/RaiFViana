@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raí! 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and PHP
 - 📫 Reach me on [Linkedin](www.linkedin.com/in/raiviana)
 
 <!---
